@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997298513204",
+    "project_id": "flash-chat-7b643",
+    "storage_bucket": "flash-chat-7b643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997298513204:android:c764dc2e6fd970d76eb161",
+        "android_client_info": {
+          "package_name": "co.mohlade.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997298513204-hlupl6m7i0044mmaei5oabk1p4v780tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0fcokB8kksRYTYjdmSWIKwgb-3rs2JmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997298513204-hlupl6m7i0044mmaei5oabk1p4v780tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
